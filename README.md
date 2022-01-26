@@ -27,3 +27,8 @@ Erin Jordan's Password Generator Week 3 Project for Denver University Coding Boo
 * After the questions are answered a random password will be generated in the box.
 * Click Copy to Clipboard to copy password. 
 * Enjoy!
+
+## Screenshot/Video
+* ![Screenshot (88)](https://user-images.githubusercontent.com/92272866/151232623-25da66d9-edd6-4005-bc95-74bca7ed3499.png)
+* https://user-images.githubusercontent.com/92272866/151232540-b12db3af-fd80-413b-8bc4-303d132d2d03.mp4
+

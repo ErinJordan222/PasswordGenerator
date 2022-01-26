@@ -30,7 +30,7 @@ let uppercase = getRandomUpper();
 let number = getRandomNumber();
 let symbol = getRandomSymbol();
 
-// randomized function
+// randomized functions
 function randomize() {
     finalPassword = [];
   
